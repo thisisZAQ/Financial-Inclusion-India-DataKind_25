@@ -1,3 +1,3 @@
 # Financial-Inclusion-India-DataKind_25
-This analysis is dedecited to uncovering insights about hwo gender imapcts fiancial incluions in India.
-Due to the large size of the file, I am attatching the google colab [link here :](https://colab.research.google.com/drive/1Vrl2PIfbl181Q7ZH6dazbrNbXwxIqpY4?usp=sharing)
+This analysis is dedecited to uncovering insights about how gender imapcts fiancial inclusion in India.
+Due to the large size of the file, I am attatching the google colab [link heren](https://colab.research.google.com/drive/1Vrl2PIfbl181Q7ZH6dazbrNbXwxIqpY4?usp=sharing)
